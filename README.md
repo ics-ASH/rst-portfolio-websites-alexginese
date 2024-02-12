@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13824780&assignment_repo_type=AssignmentRepo)
 # Part 1 of 2 - Portfolio of Work
 In an effort to make your RST as painless as possible, we will add to it throughout the course. There is a GitHub project for your portfolio. You will create a publicly visible site that links to your learning and projects as we move through the course.
 
